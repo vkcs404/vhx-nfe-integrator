@@ -11,3 +11,6 @@ Sistema de integração para emissão de notas fiscais utilizando a API do VHSYS
 1. Adicione sua chave de API no arquivo `main.py`:
    ```python
    API_KEY = "sua_chave_de_api"
+2. Clone este repositório:
+   ```bash
+   git clone https://github.com/seuperfil/seuperfil-vhx-nfe-integrator.git
